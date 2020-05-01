@@ -1,0 +1,178 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Spartan', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+hr {
+  border-style: solid;
+  border-bottom: none;
+  border-width: thick;
+  color: #EAF6F6;
+  width: 5%;
+}
+
+h1 {
+  color: #235952;
+  font-size: 40px;
+  margin-top: 30px;
+}
+
+.subtitle {
+  color: #235952;
+  font-weight: normal;
+}
+
+h2 {
+  color: #235952;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff926b;
+}
+
+p {
+  line-height: 2;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff926b;;
+  margin: 16px 10px 0;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F56828;
+}
+
+.top-container {
+  background-color: #ffebd9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  bottom: 250px;
+  height: 100px;
+  width: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  top: 50px;
+  height: 100px;
+  width: 100px;
+}
+
+.mountains {
+  position: relative;
+  margin-bottom: -30px;
+  height: 400px;
+  width: 400px;
+}
+
+.middle-container {
+  padding-top: 50px;
+}
+
+.profile {
+  width: 35%;
+  margin: 50px auto 50px auto;
+}
+
+.nerd {
+  height: 150px;
+  width: 150px;
+}
+
+.skills {
+  margin: 50px auto 50px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+
+.interface-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chemistry-pic {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills-pic {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.contact-me {
+  width: 35%;
+  margin: 50px auto 50px auto;
+}
+
+.button {
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  color: #FFFFFF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  font-weight: 100;
+  padding: 10px;
+  background-color: #FBCB6A;
+  border: none;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.button:hover {
+  color: #FFFFFF;
+  background: #F56828;
+  border: none;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.phones {
+  height: 150px;
+  width: 150px;
+}
+
+.bottom-container {
+  background-color: #ffebd9;
+  padding: 25px 0 16px;
+}
+
+.copyright {
+  margin-bottom: 0;
+  font-weight: 500;
+  font-size: 0.75rem;
+}
+
+.pro {
+  text-decoration: underline;
+}
